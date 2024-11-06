@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @AbaraEmmanuel
 
 - 👀 I’m interested in software development, web technologies, and cloud computing.
-- 🌱 I’m currently learning advanced JavaScript, React, and backend development with Node.js.
+- 🌱 I’m currently good at advanced JavaScript, React, and backend development with Node.js.
 - 💞️ I’m looking to collaborate on open-source projects, web development, and innovative tech solutions.
 - 📫 You can reach me via email at [emmanuelabara265@gmail.com](mailto:emmanuelabara265@gmail.com).
 - 😄 Pronouns: He/Him
